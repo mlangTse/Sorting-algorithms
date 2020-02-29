@@ -1,4 +1,4 @@
-# Sorting algorithms
+# Sorting-Algorithms
   | Sort|Worst Case|Average Case|Best Case|Space Complexity|Stable|
   | --------|:-----:|:----:|:----:|:----:|:----:|
   | Selection Sort|O(n^2)|Θ(n^2)|Ω(n^2)|O(1)|No|
